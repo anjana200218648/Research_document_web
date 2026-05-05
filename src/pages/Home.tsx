@@ -35,8 +35,8 @@ const Home = () => (
               🛡️ Research Project 2026
             </span>
             <h1 className="font-display text-5xl md:text-6xl font-black leading-tight mb-2">
-              <span className="text-white">SafeKid</span>{" "}
-              <span className="text-accent">Scan</span>
+              <span className="text-white">Smart Surveillance and</span>{" "}
+              <span className="text-accent">Intervention System for</span>
             </h1>
             <p className="text-2xl md:text-3xl font-light text-white/70 mb-6">
               Early Detection of Digital Addiction in Minors
