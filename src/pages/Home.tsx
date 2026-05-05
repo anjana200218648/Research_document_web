@@ -39,7 +39,7 @@ const Home = () => (
               <span className="text-accent">Intervention System for</span>
             </h1>
             <p className="text-2xl md:text-3xl font-light text-white/70 mb-6">
-              Early Detection of Digital Addiction in Minors
+              Social Media-Driven Digital Addiction in Minors
             </p>
             <p className="text-lg text-white/60 max-w-lg mb-8 leading-relaxed">
               A privacy-aware, multimodal intelligence system that analyzes social media content, behavioral patterns, and IoT signals to identify early signs of digital addiction among children aged 10–18.
